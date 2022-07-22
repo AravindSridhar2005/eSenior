@@ -28,6 +28,5 @@ urlpatterns = [
     path('marketplace/', include('get_caregivermprofile_api.urls')),
     path('cart/', include('get_caregivercart_api.urls')),
     path('analytics/', include('get_analytics_app.urls')),
-   
-    
+    path('userinfo/', include('get_user_info.urls'))
 ]
