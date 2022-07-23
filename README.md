@@ -13,4 +13,14 @@ filepath if you are using Windows command line. <br> <br>
 6. Type "pip install -r requirements.txt" to install all the necessary libraries needed to run my project. <br> <br>
 7. To run the project, type "python manage.py runserver" to launch the application at 127.0.0.1:8000. <br> <br>
 
-**For the api urls: Go to the urls.py file located in the project folder and in each of the api folders. The urls should be in single quotes.**
+Google docs link to API Documentation: https://docs.google.com/document/d/1M73aE2g76Dl_eSUBsxaqibxprmqWLwNNoEpHypE4jCA/edit?usp=sharing<br> <br>
+
+**Aravind Tasks:** <br> 
+
+-Figure out how to handle whether a user is a caregiver or not(Discuss this with Jacob and Abhiram) and add this to the APIs
+-Add the PostGRESQL database to the project(pretty simple, make sure to apply migrations after linking the database tho)
+-Deploy Django to AWS
+-Complete the logic for profile page in Django Template Language
+-Add Video Calling
+-Answer Jacob/Abhiram's questions during work hours/debug my code if necessary
+
