@@ -7,4 +7,4 @@ from .models import Groups
 class GroupsSerializer(serializers.ModelSerializer):
     class Meta:
         model = Groups
-        fields = ('name', 'members')
+        fields = ('id', 'name', 'members')

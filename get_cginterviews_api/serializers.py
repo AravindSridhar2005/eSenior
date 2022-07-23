@@ -8,4 +8,4 @@ from .models import Interviews
 class CgInterviewSerializer(serializers.ModelSerializer):
     class Meta:
         model = Interviews
-        fields = ('senior', 'caregiver', 'timestamp', 'notes', 'recording')
+        fields = ('id', 'senior', 'caregiver', 'timestamp', 'notes', 'recording')

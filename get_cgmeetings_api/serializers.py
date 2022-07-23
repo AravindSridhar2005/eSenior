@@ -7,4 +7,4 @@ from .models import Meetings
 class CgMeetingsSerializer(serializers.ModelSerializer):
     class Meta:
         model = Meetings
-        fields = ('senior', 'caregiver', 'timestamp', 'notes', 'recording')
+        fields = ('id', 'senior', 'caregiver', 'timestamp', 'notes', 'recording')

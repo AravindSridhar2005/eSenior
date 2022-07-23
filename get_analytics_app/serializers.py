@@ -5,4 +5,4 @@ from .models import Click
 class AnalyticsSerializer(serializers.ModelSerializer):
     class Meta:
         model = Click
-        fields = ('caregiver', 'user', 'LastTimeClicked')
+        fields = ('id', 'caregiver', 'user', 'LastTimeClicked')

@@ -9,5 +9,5 @@ class CgMProfileSerializer(serializers.ModelSerializer):
     
     class Meta:
         model = CaregiverProfile
-        fields = ('user', 'qualifications', 'priceperhour')
+        fields = ('id', 'user', 'qualifications', 'priceperhour')
         read_only_fields = ['user']
