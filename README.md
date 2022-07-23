@@ -2,6 +2,8 @@
 
 To test this code on your local machine: <br> <br>
 
+(Note: If you have already completed these steps before and want to update your files to my changes, just type "git pull"!)<br> <br> 
+
 (Messages in quotes are to be entered in the command line) <br> <br>
 
 1. Clone this repository using "git clone [link]" and cd to the folder that was just created(in most cases, typing "cd eSenior" will work). <br> <br> 
