@@ -15,12 +15,16 @@ filepath if you are using Windows command line. <br> <br>
 
 Google docs link to API Documentation: https://docs.google.com/document/d/1M73aE2g76Dl_eSUBsxaqibxprmqWLwNNoEpHypE4jCA/edit?usp=sharing<br> <br>
 
-**Aravind Tasks:** <br> 
+<h2>Aravind Tasks:</h2>
 
--Figure out how to handle whether a user is a caregiver or not(Discuss this with Jacob and Abhiram) and add this to the APIs
--Add the PostGRESQL database to the project(pretty simple, make sure to apply migrations after linking the database tho)
--Deploy Django to AWS
--Complete the logic for profile page in Django Template Language
--Add Video Calling
--Answer Jacob/Abhiram's questions during work hours/debug my code if necessary
+<ul>
 
+<li>Figure out how to handle whether a user is a caregiver or not(Discuss this with Jacob and Abhiram) and add this to the APIs</li>
+<li>Add the PostGRESQL database to the project(pretty simple, make sure to apply migrations after linking the database tho)</li>
+<li>Deploy Django to AWS</li>
+<li>Complete the logic for profile page in Django Template Language</li>
+<li>Add Video Calling</li>
+<li>Answer Jacob/Abhiram's questions during work hours/debug my code if necessary</li>
+
+ 
+ </ul>
