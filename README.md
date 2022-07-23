@@ -13,7 +13,9 @@ filepath if you are using Windows command line. <br> <br>
 6. Type "pip install -r requirements.txt" to install all the necessary libraries needed to run my project. <br> <br>
 7. To run the project, type "python manage.py runserver" to launch the application at 127.0.0.1:8000. <br> <br>
 
-Google docs link to API Documentation: https://docs.google.com/document/d/1M73aE2g76Dl_eSUBsxaqibxprmqWLwNNoEpHypE4jCA/edit?usp=sharing<br> <br>
+<h2>Link to API Documentation: </h2>
+
+https://docs.google.com/document/d/1M73aE2g76Dl_eSUBsxaqibxprmqWLwNNoEpHypE4jCA/edit?usp=sharing<br> <br>
 
 <h2>Aravind Tasks:</h2>
 
@@ -23,7 +25,7 @@ Google docs link to API Documentation: https://docs.google.com/document/d/1M73aE
 <li>Add the PostGRESQL database to the project(pretty simple, make sure to apply migrations after linking the database tho)</li>
 <li>Deploy Django to AWS</li>
 <li>Complete the logic for profile page in Django Template Language</li>
-<li>Add Video Calling</li>
+<li>Add video calling</li>
 <li>Answer Jacob/Abhiram's questions during work hours/debug my code if necessary</li>
 
  
