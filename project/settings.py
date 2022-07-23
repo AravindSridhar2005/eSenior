@@ -48,7 +48,8 @@ INSTALLED_APPS = [
     'get_cgmeetings_api',
     'get_cginterviews_api',
     'get_analytics_app',
-    'get_user_info'
+    'get_user_info',
+    'get_current_user'
 ]
 
 MIDDLEWARE = [
