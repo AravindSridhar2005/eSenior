@@ -4,7 +4,8 @@ To test this code on your local machine: <br> <br>
 
 (Messages in quotes are to be entered in the command line) <br> <br>
 
-1. Clone this repository using "git clone [link]" and use "git checkout vishal" to enter my branch. <br> <br>
+1. Clone this repository using "git clone [link]" and cd to the folder that was just created(in most cases, typing "cd eSenior" will work). <br> <br> 
+2. Use "git checkout vishal" to enter my branch. <br> <br>
 2. Once you have entered my branch, check if you have Python installed by using "python --version". If not, install Python. <br> <br>
 3. Type "pip install virtualenv" to install the virtualenv library. <br> <br>
 4. Check that you are in my project's directory in the command line, and then type "virtualenv env" to create a virtualenv for the project. <br> <br>
