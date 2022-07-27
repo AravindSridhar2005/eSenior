@@ -30,4 +30,5 @@ urlpatterns = [
     path('analytics/', include('get_analytics_app.urls')),
     path('userinfo/', include('get_user_info.urls')),
     path('currentuser/', include('get_current_user.urls')),
+    path('usercarel/', include('get_usercaregrel_api.urls')),
 ]
